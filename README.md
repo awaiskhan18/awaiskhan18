@@ -1,11 +1,11 @@
-# Hello World!,  I'm Awais Khan — a Principal Software Engineer with 10+ years of experience 👋🏼:
+# Hello World!,  I'm Awais Khan — a Principal Software Engineer with 10+ years of experience 👋🏼
 As a seasoned Software Engineer with over a decade of experience, I have consistently delivered high-impact results in fast-paced, dynamic environments. I specialize in a broad spectrum of modern technologies, including MERN Stack, DevOps, CEH, Laravel, React.js, Google Cloud, PHP, Oracle, CodeIgniter, MySQL, Git, and jQuery, ensuring I remain at the cutting edge of industry innovations.  
   
 My technical expertise is complemented by certifications in Google Project Management and Certified Ethical Hacker (CEH) from EC-Council USA, which have further refined my leadership, communication, and problem-solving abilities. I am dedicated to driving innovative solutions that exceed client expectations, and my commitment to continuous learning and excellence has been the foundation of my career.
 
 ## 🚀 My Expertise
 
-   ✅ **Web Application Development** using **MERN Stack, Laravel, Core PHP**, with strong backend and frontend integration.
+✅ **Web Application Development** using **MERN Stack, Laravel, Core PHP**, with strong backend and frontend integration.
     
 ✅ **AI & NLP Applications**: Built AI-powered chatbots, meeting analysis tools, and LPR-based visitor management systems.
     
