@@ -1,5 +1,3 @@
-This version is stronger for GitHub because it feels less like an Upwork profile and more like a high-end engineer profile. It is cleaner, more focused, and positions you as an AI systems builder rather than a service seller.
-
 # Hello World! 👋🏼
 
 # I'm Awais Khan — AI Systems Engineer | AI Automation Architect
@@ -8,7 +6,7 @@ I build production-grade AI systems, LLM infrastructure, and intelligent automat
 
 With 10+ years of engineering experience across full-stack development, cloud infrastructure, and AI systems, I specialize in designing end-to-end architectures powered by LLMs, RAG pipelines, AI agents, and scalable backend services.
 
-My focus is building real-world AI products — not experiments — engineered for reliability, scalability, and measurable business impact.
+My focus is building real-world AI products  not experiments engineered for reliability, scalability, and measurable business impact.
 
 ---
 
@@ -92,8 +90,4 @@ Building scalable AI products involving:
 
 # 💬 Let's Build Something Meaningful
 
-I enjoy building AI systems that solve complex problems and create measurable impact.
-
-Always exploring new ideas around AI, automation, infrastructure, and scalable systems 🚀
-
-This reads more like a principal engineer GitHub profile and less like a freelancer sales page.
+I enjoy building AI systems that solve complex problems and create measurable impact. Always exploring new ideas around AI, automation, infrastructure, and scalable systems 🚀
