@@ -1,8 +1,10 @@
 # Hello World! 👋🏼
 
-# I'm Awais Khan — AI Systems Engineer | AI Automation Architect
+# I'm Awais Khan AI Systems Engineer | AI Automation Architect
 
-I build production-grade AI systems, LLM infrastructure, and intelligent automation platforms that help businesses scale faster, reduce operational overhead, and transform manual workflows into autonomous systems.
+𝐀𝐈 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 | 𝐋𝐋𝐌 𝐈𝐧𝐟𝐫𝐚𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞, 𝐑𝐀𝐆 & 𝐀𝐈 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 𝐟𝐨𝐫 𝐒𝐚𝐚𝐒 𝐂𝐨𝐦𝐩𝐚𝐧𝐢𝐞𝐬.
+
+I build production-grade AI systems, LLM infrastructure, and intelligent automation platforms that help businesses scale faster, reduce operational overhead, and transform manual workflows into autonomous systems. 
 
 With 10+ years of engineering experience across full-stack development, cloud infrastructure, and AI systems, I specialize in designing end-to-end architectures powered by LLMs, RAG pipelines, AI agents, and scalable backend services.
 
