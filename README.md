@@ -71,9 +71,13 @@ Kafka • ETL Pipelines • Event-Driven Systems
 # 🏆 Certifications
 
 🏅 Google Professional Machine Learning Engineer
+
 🏅 Google Professional Cloud Architect
+
 🏅 Google Associate Cloud Engineer
+
 🏅 IBM AI Engineering Professional Certificate
+
 🏅 DeepLearning.AI ML & Generative AI Specializations
 
 ---
