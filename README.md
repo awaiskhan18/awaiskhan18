@@ -87,9 +87,13 @@ Kafka • ETL Pipelines • Event-Driven Systems
 Building scalable AI products involving:
 
 ⚡ AI Agents & Agentic Workflows
+
 ⚡ Retrieval-Augmented Generation (RAG)
+
 ⚡ AI Copilots & Knowledge Systems
+
 ⚡ LLM Infrastructure
+
 ⚡ AI Automation for SaaS Platforms
 
 ---
